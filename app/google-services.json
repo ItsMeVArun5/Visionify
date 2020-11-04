@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "63173434350",
+    "firebase_url": "https://visionify-21b42.firebaseio.com",
+    "project_id": "visionify-21b42",
+    "storage_bucket": "visionify-21b42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63173434350:android:bef82843b734ec3b008cff",
+        "android_client_info": {
+          "package_name": "com.visionify.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63173434350-500v8pobqdk1g9ms7vtqad5votpblhao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpWosraoYMg18FoSxrF6ZIrasnK-xW8kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63173434350-500v8pobqdk1g9ms7vtqad5votpblhao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
