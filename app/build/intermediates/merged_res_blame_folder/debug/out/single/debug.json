@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_visionify.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-xxxhdpi\\visionify.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detect_color.xml.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\layout\\activity_detect_color.xml"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_visionify_round.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-xxxhdpi\\visionify_round.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_visionify_round.xml.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-anydpi-v26\\visionify_round.xml"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_visionify_foreground.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-hdpi\\visionify_foreground.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_visionify.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-xhdpi\\visionify.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detect_object.xml.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\layout\\activity_detect_object.xml"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_upload.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\drawable\\image_upload.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_visionify.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-mdpi\\visionify.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_visionify_round.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-xxhdpi\\visionify_round.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\drawable_visionify_splash.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\drawable\\visionify_splash.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detect_text.xml.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\layout\\activity_detect_text.xml"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\anim_mysplashanimation.xml.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\anim\\mysplashanimation.xml"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_visionify.xml.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-anydpi-v26\\visionify.xml"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\drawable_visionify_welcome_screen.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\drawable\\visionify_welcome_screen.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_visionify_round.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-hdpi\\visionify_round.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_visionify_foreground.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-mdpi\\visionify_foreground.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\drawable_visionify.jpg.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\drawable\\visionify.jpg"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_visionify_round.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-xhdpi\\visionify_round.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_visionify_round.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-mdpi\\visionify_round.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\drawable_visionify_background.xml.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\drawable\\visionify_background.xml"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_visionify.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-xxhdpi\\visionify.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_visionify_foreground.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-xxxhdpi\\visionify_foreground.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_visionify_foreground.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-xhdpi\\visionify_foreground.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_visionify_foreground.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-xxhdpi\\visionify_foreground.png"
+    },
+    {
+        "merged": "W:\\Projects\\Visionify\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_visionify.png.flat",
+        "source": "W:\\Projects\\Visionify\\app\\src\\main\\res\\mipmap-hdpi\\visionify.png"
+    }
+]

@@ -1,0 +1,30 @@
+com/visionify/app/DetectText.java
+ com.visionify.app.DetectText
+ com.visionify.app.DetectText$1
+ com.visionify.app.DetectText$2
+ com.visionify.app.DetectText$3
+ com.visionify.app.DetectText$4
+ com.visionify.app.DetectText$5
+com/visionify/app/MainActivity.java
+ com.visionify.app.MainActivity
+ com.visionify.app.MainActivity$1
+ com.visionify.app.MainActivity$2
+ com.visionify.app.MainActivity$3
+com/visionify/app/SplashScreen.java
+ com.visionify.app.SplashScreen
+ com.visionify.app.SplashScreen$1
+com/visionify/app/DetectObject.java
+ com.visionify.app.DetectObject
+ com.visionify.app.DetectObject$1
+ com.visionify.app.DetectObject$2
+ com.visionify.app.DetectObject$3
+ com.visionify.app.DetectObject$4
+ com.visionify.app.DetectObject$5
+com/visionify/app/BuildConfig.java
+ com.visionify.app.BuildConfig
+com/visionify/app/DetectColor.java
+ com.visionify.app.DetectColor
+ com.visionify.app.DetectColor$1
+ com.visionify.app.DetectColor$2
+ com.visionify.app.DetectColor$3
+ com.visionify.app.DetectColor$4
